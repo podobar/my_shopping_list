@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">my_shopping_list</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_sort">Sort</string>
+    <string name="sort_title">Sorting preferences</string>
+    <string name="sort_summary">Choose whether you want your data to be sorted alphabetically</string>
+</resources>
